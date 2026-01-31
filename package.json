@@ -1,6 +1,6 @@
 {
-  "name": "meine-bots",
-  "version": "1.0.0",
+  "name": "festival-bot",
+  "version": "0.2.0-beta",
   "description": "",
   "main": "index.js",
   "scripts": {
