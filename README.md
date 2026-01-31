@@ -43,6 +43,8 @@ The project is currently in **beta** and actively developed.
 
 More languages can be added via community contributions.
 
+---
+
 ## 🤖 Invite Festival Bot
 
 You can invite **Festival Bot (BETA)** to your Discord server using the official invite link:
@@ -51,8 +53,6 @@ You can invite **Festival Bot (BETA)** to your Discord server using the official
 
 > ⚠️ Festival Bot is currently in **beta**.  
 > Permissions, features, and commands may change during development.
-
----
 
 ## 🧪 Beta Status
 Festival Bot is currently in **beta**.  
