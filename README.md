@@ -68,13 +68,3 @@ Feedback and suggestions are very welcome!
 git clone https://github.com/MobileGamer1577/festival-bot.git
 cd festival-bot
 npm install
-
----
-
-## :heavy_plus_sign: Invite the Bot
-You can add the Festival Bot to your own Discord server using the following link:
-
-> [!TIP]
-> **[Click here to invite Festival Bot to your server!]([DEIN_INVITE_LINK_HIER](https://discord.com/api/oauth2/authorize?client_id=1466060872437727349&scope=bot+applications.commands&permissions=1099511712768))** > *(Make sure you have "Manage Server" permissions to add the bot.)*
-
----
