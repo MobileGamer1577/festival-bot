@@ -1,15 +1,17 @@
 # 🎵 Festival Bot (BETA)
 
-Festival Bot is an open-source Discord bot focused on **Fortnite Festival**, with additional moderation and utility features.  
-The project is currently in **beta** and under active development.
+Festival Bot is an open-source Discord bot for Discord servers, currently focused on **utility and localization**,  
+with **Fortnite Festival features planned for the future**.
+
+The project is in **beta** and under active development.
 
 ---
 
 ## ✨ Features
 
-### 🎮 Fortnite Festival
-- Festival-related information  
-- More Festival features coming soon
+### 🎮 Fortnite Festival (planned)
+- Fortnite Festival features are **planned but not yet implemented**
+- This section will be expanded as development progresses
 
 ### 🌍 Localization
 - Multi-language system (currently **English** & **German**)
