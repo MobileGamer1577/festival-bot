@@ -1,0 +1,473 @@
+[
+  {
+    "id": "the_first_step"
+  },
+  {
+    "id": "show_off"
+  },
+  {
+    "id": "the_pale_horse_arrives"
+  },
+  {
+    "id": "return_of_the_king"
+  },
+  {
+    "id": "stylish_kill"
+  },
+  {
+    "id": "time_for_pints"
+  },
+  {
+    "id": "red_carpet"
+  },
+  {
+    "id": "podium_finish"
+  },
+  {
+    "id": "and_so_it_begins"
+  },
+  {
+    "id": "only_the_beginning"
+  },
+  {
+    "id": "nobody_was_there"
+  },
+  {
+    "id": "unexpected_move"
+  },
+  {
+    "id": "talent_acquisition"
+  },
+  {
+    "id": "death_row"
+  },
+  {
+    "id": "hired_gun"
+  },
+  {
+    "id": "camos_are_forever"
+  },
+  {
+    "id": "bye_bye_dark_aether"
+  },
+  {
+    "id": "write_off"
+  },
+  {
+    "id": "breaking_news"
+  },
+  {
+    "id": "to_know_your_enemy"
+  },
+  {
+    "id": "close_combat_specialist"
+  },
+  {
+    "id": "never_bury_your_enemies_alive"
+  },
+  {
+    "id": "helpful_stranger"
+  },
+  {
+    "id": "bunker_busters"
+  },
+  {
+    "id": "head_games"
+  },
+  {
+    "id": "destructive_wake"
+  },
+  {
+    "id": "jackpot"
+  },
+  {
+    "id": "annihilation"
+  },
+  {
+    "id": "wall_of_duty"
+  },
+  {
+    "id": "sample_platter"
+  },
+  {
+    "id": "grounded"
+  },
+  {
+    "id": "consolation_prize"
+  },
+  {
+    "id": "no_mo_modi"
+  },
+  {
+    "id": "perkaholic"
+  },
+  {
+    "id": "case_closed"
+  },
+  {
+    "id": "capitol_punishment"
+  },
+  {
+    "id": "buried_at_sea"
+  },
+  {
+    "id": "night_fight"
+  },
+  {
+    "id": "dialed_in"
+  },
+  {
+    "id": "you_can_pet_the_dog"
+  },
+  {
+    "id": "conqueror"
+  },
+  {
+    "id": "new_dynasty"
+  },
+  {
+    "id": "the_puzzles_mason"
+  },
+  {
+    "id": "betrayal"
+  },
+  {
+    "id": "kings_of_the_mountain"
+  },
+  {
+    "id": "seeing_red"
+  },
+  {
+    "id": "doing_your_part"
+  },
+  {
+    "id": "archenemy"
+  },
+  {
+    "id": "daredevil"
+  },
+  {
+    "id": "nessie"
+  },
+  {
+    "id": "master_of_arms"
+  },
+  {
+    "id": "taking_names"
+  },
+  {
+    "id": "a_crappy_way_to_die"
+  },
+  {
+    "id": "your_tax_dollars_at_work"
+  },
+  {
+    "id": "back_from_the_dead"
+  },
+  {
+    "id": "rush_hour"
+  },
+  {
+    "id": "cyberized"
+  },
+  {
+    "id": "perfected"
+  },
+  {
+    "id": "crocodile"
+  },
+  {
+    "id": "gentleman_thief"
+  },
+  {
+    "id": "keeping_this_one"
+  },
+  {
+    "id": "full_clear"
+  },
+  {
+    "id": "heavy_ordinance_specialist"
+  },
+  {
+    "id": "calling_for_backup"
+  },
+  {
+    "id": "legitimate_strategy"
+  },
+  {
+    "id": "cutting_heads_off_snakes"
+  },
+  {
+    "id": "party_s_over"
+  },
+  {
+    "id": "frontline_offensive"
+  },
+  {
+    "id": "destroyer"
+  },
+  {
+    "id": "glamor_shot"
+  },
+  {
+    "id": "tag_you_re_it"
+  },
+  {
+    "id": "frequent_flyer"
+  },
+  {
+    "id": "gravestone"
+  },
+  {
+    "id": "the_end"
+  },
+  {
+    "id": "deadwood"
+  },
+  {
+    "id": "fresh_moves"
+  },
+  {
+    "id": "ghost_in_training"
+  },
+  {
+    "id": "must_be_wind"
+  },
+  {
+    "id": "gunless"
+  },
+  {
+    "id": "test_drive"
+  },
+  {
+    "id": "backpack_guy"
+  },
+  {
+    "id": "no_time_to_lose"
+  },
+  {
+    "id": "practice_makes_perfect"
+  },
+  {
+    "id": "don_t_touch_the_deck"
+  },
+  {
+    "id": "full_sse"
+  },
+  {
+    "id": "going_dark"
+  },
+  {
+    "id": "hellride"
+  },
+  {
+    "id": "floater"
+  },
+  {
+    "id": "slaughterhouse"
+  },
+  {
+    "id": "covert_agent"
+  },
+  {
+    "id": "rapid_reflexes"
+  },
+  {
+    "id": "treasure_hunter"
+  },
+  {
+    "id": "hoarder"
+  },
+  {
+    "id": "a_familiar_face"
+  },
+  {
+    "id": "don_t_you_die_on_me"
+  },
+  {
+    "id": "gearhead"
+  },
+  {
+    "id": "i_call_shotgun"
+  },
+  {
+    "id": "have_you_tried_turning_it_off_and_on"
+  },
+  {
+    "id": "141_ready"
+  },
+  {
+    "id": "world_domination"
+  },
+  {
+    "id": "this_is_my_rifle"
+  },
+  {
+    "id": "corpse_aplenty"
+  },
+  {
+    "id": "survival_of_the_fittest"
+  },
+  {
+    "id": "enforced_freedom"
+  },
+  {
+    "id": "no_such_thing_as_too_many"
+  },
+  {
+    "id": "bulletproof"
+  },
+  {
+    "id": "that_s_one_way_to_do_it"
+  },
+  {
+    "id": "hey_catch"
+  },
+  {
+    "id": "high_wire_act"
+  },
+  {
+    "id": "helo_hat_trick"
+  },
+  {
+    "id": "2_fer"
+  },
+  {
+    "id": "back_in_the_field"
+  },
+  {
+    "id": "shot_blocked"
+  },
+  {
+    "id": "think_she_ll_notice"
+  },
+  {
+    "id": "elevator_out_of_order"
+  },
+  {
+    "id": "snow_angel"
+  },
+  {
+    "id": "hitchhiker"
+  },
+  {
+    "id": "skewer_the_winged_beast"
+  },
+  {
+    "id": "dripped_out"
+  },
+  {
+    "id": "maximum_overdrive"
+  },
+  {
+    "id": "farsight"
+  },
+  {
+    "id": "i_heard_you_like_upgrades"
+  },
+  {
+    "id": "nightmares_to_dreams"
+  },
+  {
+    "id": "heart_of_darkness"
+  },
+  {
+    "id": "we_didn_t_need_a_bigger_boat"
+  },
+  {
+    "id": "the_bigger_they_are"
+  },
+  {
+    "id": "prison_break"
+  },
+  {
+    "id": "under_pressure"
+  },
+  {
+    "id": "one_against_all"
+  },
+  {
+    "id": "case_in_point"
+  },
+  {
+    "id": "bulldozed"
+  },
+  {
+    "id": "david_vs_goliath"
+  },
+  {
+    "id": "dipped_in_gold"
+  },
+  {
+    "id": "seek_destroy"
+  },
+  {
+    "id": "culinary_delight"
+  },
+  {
+    "id": "decorated_veteran"
+  },
+  {
+    "id": "i_believe_i_can_glide"
+  },
+  {
+    "id": "ready_for_action"
+  },
+  {
+    "id": "dust_to_dust"
+  },
+  {
+    "id": "builder_s_brew"
+  },
+  {
+    "id": "poison_paradise"
+  },
+  {
+    "id": "scientific_breakthrough"
+  },
+  {
+    "id": "turbocharged"
+  },
+  {
+    "id": "purveyor_of_fine_goods"
+  },
+  {
+    "id": "checking_boxes"
+  },
+  {
+    "id": "not_in_my_house"
+  },
+  {
+    "id": "pathfinder"
+  },
+  {
+    "id": "expert_curator"
+  },
+  {
+    "id": "mixologist"
+  },
+  {
+    "id": "chew_on_this"
+  },
+  {
+    "id": "good_soldiers"
+  },
+  {
+    "id": "soul_stealer"
+  },
+  {
+    "id": "reunited_with_fidolina"
+  },
+  {
+    "id": "forever_fated"
+  },
+  {
+    "id": "fowl_five_piece"
+  },
+  {
+    "id": "loremaster"
+  },
+  {
+    "id": "spectral"
+  }
+]

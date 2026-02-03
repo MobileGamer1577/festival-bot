@@ -12,7 +12,6 @@
   "support": "Support",
   "contact": "Contact",
   "about_footer": "Thanks for testing! 💙",
-
   "bo7.achievements.the_first_step.name": "The First Step",
   "bo7.achievements.the_first_step.desc": "Reach Level 55",
   "bo7.achievements.show_off.name": "Show Off",
@@ -328,8 +327,8 @@
   "bo7.achievements.spectral.name": "Spectral",
   "bo7.achievements.spectral.desc": "Successfully Sneak Across the Yacht's Deck in Disruption",
   "bo7.ui.title": "BO7 Achievements",
-"bo7.ui.all": "All",
-"bo7.ui.open": "Open",
-"bo7.ui.page": "Page",
-"bo7.ui.no_entries": "No entries."  
+  "bo7.ui.all": "All",
+  "bo7.ui.open": "Open",
+  "bo7.ui.page": "Page",
+  "bo7.ui.no_entries": "No entries."
 }
